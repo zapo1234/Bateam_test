@@ -22,6 +22,6 @@ NB: just pour bien faire le serveur on utilise pas de base données ni doctrine 
 # le controller Action qui travaille sur les fonctionnalités et boutons 
 
 
-NB : au click des boutons de pop up , pour quitter le pop up cliquer sur l'ecran noir pour supprimer et continuer
+NB : au click des boutons de statistique de pop up et recherche select par pays , pour quitter le pop up cliquer sur l'ecran noir partout  pour supprimer la pop up et continuer
 Front utiliser (Jquery/javascript/ajax) et le twig de symfony.
 Back Symfony 5.3.7 et Php 7.3.
