@@ -2,7 +2,7 @@
 test de développement
 
 #Projet version Symfony 5.3.7 et php 7.3
-# cloner le projet git clone 
+# cloner le projet git clone git@github.com:zapo1234/Bateam_test.git
 # installer les dependances en tapant  cd Batem et ensuite  avec composer install
 # important : composant serializer de symfony  pour la version de symfony 5 veuillez cloner le dossier via le package
 via github package serialize version git clone https://github.com/symfony/serializer.git voir lien https://github.com/symfony/serializer
